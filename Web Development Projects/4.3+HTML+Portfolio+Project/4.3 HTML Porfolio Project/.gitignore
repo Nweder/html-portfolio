@@ -1,0 +1,6 @@
+# Ignorera Windows-systemfiler
+System Volume Information/
+SRECYCLE.BIN/
+
+# Ignorera PDF-filer om du inte vill pusha dem
+*.pdf
